@@ -2,19 +2,21 @@
 In this project, we trained `CNN`, `neural-network`, `Random Forest` and `stacked model` to predict the type of traffic sign in german.
 
 ### File Structure
-**ML_A2**
-├── **Code**   `contains all of our works`
-│   ├── **2025_A2**  `Put Train & Test Data in this dir`
-│   │   ├── test
-│   │   │   └── Features
-│   │   └── train
-│   │       └── Features
-│   ├── CNN_Implementation
-│   ├── **models**  `Trained model will be stored here`
-│   ├── Neural_Networks
-│   ├── RandomForest_Implementation
-│   └── Stacking_model
+```text
+ML_A2
+├── Code
+│   ├── 2025_A2
+│   │   ├── test
+│   │   │   └── Features
+│   │   └── train
+│   │       └── Features
+│   ├── CNN_Implementation
+│   ├── Neural_Networks
+│   ├── RandomForest_Implementation
+│   └── Stacking_model
+├── models
 └── report_template_word
+```
 
 ### How to setup & Run
 1. To run this project, you will need to install:
