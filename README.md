@@ -4,18 +4,17 @@ In this project, we trained `CNN`, `neural-network`, `Random Forest` and `stacke
 ### File Structure
 ```text
 ML_A2
-├── Code
-│   ├── 2025_A2
-│   │   ├── test
-│   │   │   └── Features
-│   │   └── train
-│   │       └── Features
-│   ├── CNN_Implementation
-│   ├── Neural_Networks
-│   ├── RandomForest_Implementation
-│   └── Stacking_model
-├── models
-└── report_template_word
+└─ Code
+    ├── 2025_A2 -> your training & testing data reside
+    │   ├── test
+    │   │   └── Features
+    │   └── train
+    │       └── Features
+    ├── CNN_Implementation
+    ├── Neural_Networks
+    ├── RandomForest_Implementation
+    ├── Stacking_model
+    └──models -> your trained weight stores here
 ```
 
 ### How to setup & Run
